@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Đồ án</string>
+    <string name="txt">Health Information</string>
+    <string name="txt1">Date of Birth</string>
+    <string name="txt2">Height</string>
+    <string name="txt3">Weight</string>
+    <string name="txt4">Address</string>
+    <string name="txt5">Target</string>
+    <string name="edt1">Enter your address</string>
+    <string name="edt2">Write your target here!</string>
+    <string name="txt6">All your personal information will be</string>
+    <string name="txt7">kept strictly confidental</string>
+    <string name="btn1">COMPLETE</string>
+    <string name="btn2">Select your height</string>
+    <string name="btn3">Select your weight</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="slash">/</string>
+    <string name="h">Choose Your Height</string>
+    <string name="w">Choose Your Weight</string>
+    <string name="ca">Cancel</string>
+    <string name="cf">CONFIRM</string>
+    <string name="txt8">You are all set</string>
+    <string name="txt9">From the information you have provided</string>
+    <string name="txt10">we have set up a personalized system,</string>
+    <string name="txt11">just for you!</string>
+    <string name="hungrei">HUNGREI!</string>
+</resources>
