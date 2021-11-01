@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EAE7EC">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:gravity="left"
+        android:text="Create Account"
+        android:layout_marginLeft="8dp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:textSize="40dp" />
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:text="The very first step to get you healthy and fit. "
+    android:textSize="20dp"/>
+
+    <LinearLayout
+
+        android:layout_width="350dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:background="@drawable/shape_login"
+        android:layout_marginTop="50dp">
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/ic_baseline_email_24"
+            android:drawablePadding="20dp"
+            android:hint="EMAIL"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:id="@+id/edtUserName"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_margin="10dp"
+            android:drawableLeft="@drawable/ic_baseline_person_outline_24"
+            android:drawablePadding="20dp"
+            android:hint="USER NAME"
+            android:padding="10dp" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/edtPassWord"
+            android:hint="PASSWORD"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:layout_margin="10dp"
+            android:drawablePadding="20dp"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:id="@+id/edtpass"
+            android:hint="CONFIRM PASSWORD"
+            android:padding="10dp"
+            android:drawableLeft="@drawable/ic_baseline_vpn_key_24"
+            android:layout_margin="10dp"
+            android:drawablePadding="20dp"/>
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnNext"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="CONTINUE"
+       android:background="@drawable/shape_button"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+       android:layout_gravity="center"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already have an account?"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:text="Sign in"
+            android:layout_marginLeft="10dp"
+            android:textColor="#F44336"/>
+
+    </LinearLayout>
+
+</LinearLayout>

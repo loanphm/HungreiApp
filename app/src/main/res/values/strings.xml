@@ -1,18 +1,3 @@
 <resources>
-    <string name="app_name">Practice1</string>
-    <string name="txtNw">New user?<u> Register here </u>.</string>
-    <string name="txtpass">Password</string>
-    <string name="txtmail">Email</string>
-    <string name="btnlogin">Login</string>
-    <string name="edttype">Type your email address</string>
-    <string name="edttypepass">Type your password</string>
-    <string name="txtdichvu">Chọn dịch vụ</string>
-    <string name="btnthoat">Thoát</string>
-    <string name="txtgiat">Giặt ủi</string>
-    <string name="txtkhachsan">Khách sạn</string>
-    <string name="txttaxi">Taxi</string>
-    <string name="txtthucannhanh">Thức ăn nhanh</string>
-    <string name="txtvanchuyen">vận chuyển</string>
-
-
+    <string name="app_name">LoginDoAn</string>
 </resources>
