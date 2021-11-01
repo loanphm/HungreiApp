@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="txtNw">New user?<u> Register here </u>.</string>
+    <string name="txtpass">Password</string>
+    <string name="txtmail">Email</string>
+    <string name="btnlogin">Login</string>
+    <string name="edttype">Type your email address</string>
+    <string name="edttypepass">Type your password</string>
+</resources>

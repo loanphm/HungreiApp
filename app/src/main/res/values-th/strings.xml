@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice1</string>
+    <string name="txtNw">ผู้ใช้ใหม่?<u> ลงทะเบียนที่นี่ </u>.</string>
+    <string name="txtpass">รหัสผ่าน</string>
+    <string name="txtmail">อีเมล</string>
+    <string name="btnlogin">เข้าสู่ระบบ</string>
+    <string name="edttype">พิมพ์ที่อยู่อีเมลของคุณ</string>
+    <string name="edttypepass">พิมพ์รหัสผ่านของคุณ</string>
+
+</resources>
